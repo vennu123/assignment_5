@@ -1,0 +1,16 @@
+tr{
+    border-color:red;
+    color: rgb(79, 23, 231);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color:brown;
+    font-weight: normal;
+    letter-spacing: 4px;
+    margin-bottom: 1px;
+    text-transform: uppercase;
+}
+h2{
+    color:green;
+}
